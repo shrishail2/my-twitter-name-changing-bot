@@ -1,1 +1,1 @@
-worker: shrishail-app-shri.py
+worker: python shrishail-app-shri.py
